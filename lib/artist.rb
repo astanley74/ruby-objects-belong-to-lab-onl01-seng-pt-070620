@@ -7,5 +7,3 @@ class Artist
 end
 
 eminem = Artist.new("Eminem")
-lose_yourself = Song.new("Lose Yourself")
-lose_yourself.artist = eminem
