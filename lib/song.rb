@@ -6,3 +6,5 @@ class Song
   end
 end
 
+lose_yourself = Song.new("Lose Yourself")
+lose_yourself.artist = eminem
